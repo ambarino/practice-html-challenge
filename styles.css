@@ -1,0 +1,217 @@
+.clearfix{
+  clear: both;
+}
+
+nav{
+  background-color: #C12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  height: 100%;
+  position: relative;
+}
+
+.top-left{
+  margin-left: 5px;
+}
+nav a{
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+
+.nav-bar-ul {
+  display: inline-block;
+  float: right;
+  margin: 0px 20px 0 0;
+  position: absolute;
+  top: 30%;
+  right: 0%;
+}
+
+.nav-bar-ul li{
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.npm-logo{
+  width: auto;
+  height: 50px;
+  margin: 10px 0 0 0;
+  float: left;
+}
+
+.search-bar{
+  background-color: rgb(31, 82, 111);
+  float: left;
+  width: 80%;
+  height: 40px;
+  margin: 10px 10px 0 10px;
+  color: white;
+  font-size: 1.2em;
+}
+
+.search{
+  position: relative;
+}
+
+.search p{
+  display: inline-block;
+  float: left;
+  line-height: 1.5em;
+    
+}
+
+.bear-logo{
+  width: auto;
+  height: 50px;
+  float: left;
+  margin-top: 5px;
+}
+
+.button {
+  display: block;
+  background-color: rgb(240, 146, 51);
+  float: left;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.button a, .button p{
+  text-decoration: none;
+  color: white;
+}
+
+.city{
+  color: white;
+  background-color: rgb(32, 101, 136);
+}
+
+
+
+.city-container{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.city-text{
+  float:left;
+  display: inline-block;
+  padding: 0 0;
+  margin: 70px 0;
+  width: 55%;
+}
+
+.city-container img{
+  width: 300px;
+  height: auto;
+  padding-top: 40px;
+  padding-bottom: 40px; 
+  margin-left: 40px;
+}
+
+.orgs{
+  color: White;
+  background-color: rgb(39, 53, 71);
+}
+
+
+.orgs-container{
+  padding: 60px;
+  width: 1100px;
+  margin: 0 auto 20px;
+}
+
+.button {
+  display: block;
+  background-color: rgb(240, 146, 51);
+  float: left;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.orgs-container img{
+  width: 500px;
+  height: auto;
+  float: left;
+  margin: 0 80px;
+}
+
+.orgs-text{
+  float: left;
+  text-decoration: none;
+}
+
+.orgs-button{
+  background-color: rgb(203, 56, 55);
+}
+
+#learn-p{
+  position: relative;
+}
+
+.learn-more{
+  position: absolute;
+  margin-top: 62px;
+  left: 57%;
+}
+
+.learn-more a{
+  text-decoration: none;
+}
+
+.install{
+  background-image: url("images/city-scape.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+  color: white;
+  position: relative;
+}
+
+.install-text{
+  width: 600px;
+  position: absolute;
+  top: 16%;
+  left: 21%;
+}
+
+.install-button{
+  background-color: rgb(49, 68, 88);
+}
+
+#general-info{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+.general-header{
+  text-align: center;
+  margin-bottom: 30px;
+  color: rgb(83, 88, 98);
+}
+
+.general-img-container{
+  text-align: center;
+  color: rgb(135, 145, 156);
+}
+
+.general-img-container h4{
+  color: rgb(83, 88, 98);
+}
+
+.general-img-container a{
+  text-decoration: none;
+  color: rgb(208, 74, 73)
+}
+
+.col{
+  float:left;
+}
+
+.col-3{
+  width: 30%;
+}
+
+.col-middle{
+  margin: 0 5% 0 5%;
+}
